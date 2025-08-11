@@ -1,3 +1,1 @@
 # Python
-
-Basic Python Notes
