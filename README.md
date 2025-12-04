@@ -8,3 +8,8 @@ Matplotlib - Python
 OOPS - Python
 Modules - Python
 File_Management - Python
+
+
+# AI_ML
+
+Introduction to AI_ML Core Concepts
